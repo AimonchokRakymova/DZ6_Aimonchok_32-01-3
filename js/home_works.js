@@ -70,3 +70,4 @@ resetBth.onclick = () => {
     secondsS.innerText = count;
     clearInterval(int)
 }
+
